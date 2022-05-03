@@ -1,0 +1,10 @@
+build/
+node_modules/
+letsencrypt/
+cache/
+
+.env
+*.env
+yarn-error.log
+.DS_Store
+.vscode
